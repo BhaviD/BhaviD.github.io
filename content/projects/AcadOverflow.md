@@ -1,7 +1,6 @@
 ---
 date: '2020-04-21'
 title: 'AcadOverflow'
-cover: './AcadOverflow.png'
 github: 'https://github.com/BhaviD/AcadOverflow_website'
 external: ''
 tech:
@@ -10,6 +9,7 @@ tech:
   - sklearn
   - HTML
   - CSS
+company: 'IIIT Hyderabad'
 showInProjects: true
 ---
 
