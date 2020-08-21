@@ -1,7 +1,6 @@
 const config = require('./src/config');
 
 module.exports = {
-  pathPrefix: "/portfolio",
   siteMetadata: {
     title: config.siteTitle,
     siteUrl: config.siteUrl,
@@ -17,8 +16,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'BhaviDhingra',
+        short_name: 'BhaviDhingra',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,

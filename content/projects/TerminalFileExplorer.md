@@ -1,7 +1,7 @@
 ---
 date: '2018-09-03'
 title: 'Terminal File Explorer'
-github: 'https://github.com/BhaviD/Terminal-File-Explorer'
+github: 'https://github.com/bhavidhingra/Terminal-File-Explorer'
 external: ''
 tech:
   - C++ STL

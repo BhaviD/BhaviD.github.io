@@ -1,7 +1,7 @@
 ---
 date: '2019-11-13'
 title: 'Compiler'
-github: 'https://github.com/BhaviD/Compiler'
+github: 'https://github.com/bhavidhingra/Compiler'
 external: ''
 tech:
   - C++

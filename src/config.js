@@ -1,26 +1,26 @@
 module.exports = {
-  siteTitle: 'Bhavi Dhingra | Software Engineer',
+  siteTitle: 'Bhavi Dhingra | Software Dev Engineer',
   siteDescription:
     'Bhavi Dhingra is a Software Dev Engineer based in Bangalore, KA who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
+    'Bhavi Dhingra, Bhavi, Dhingra, bhavidhingra, software engineer, back-end engineer',
+  siteUrl: 'https://bhavidhingra.dev',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Bhavi Dhingra',
   location: 'Bangalore, KA',
   email: 'bhavi.dhingra@gmail.com',
-  github: 'https://github.com/BhaviD',
-  twitterHandle: '@bchiang7',
+  github: 'https://github.com/bhavidhingra',
+  twitterHandle: '@bhavidhingra9',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/BhaviD',
+      url: 'https://github.com/bhavidhingra',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bhavi-dhingra/',
+      url: 'https://www.linkedin.com/in/bhavidhingra/',
     },
     {
       name: 'Instagram',

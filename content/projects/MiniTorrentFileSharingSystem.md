@@ -1,7 +1,7 @@
 ---
 date: '2018-09-23'
 title: 'MiniTorrent File Sharing System'
-github: 'https://github.com/BhaviD/Mini-Torrent-File-Sharing-System'
+github: 'https://github.com/bhavidhingra/Mini-Torrent-File-Sharing-System'
 external: ''
 tech:
   - C++ STL

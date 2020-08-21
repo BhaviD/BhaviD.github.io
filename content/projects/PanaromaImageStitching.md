@@ -1,7 +1,7 @@
 ---
 date: '2020-03-01'
 title: 'Panaroma Image Stitching'
-github: 'https://github.com/BhaviD/panorama_image_stitching'
+github: 'https://github.com/bhavidhingra/panorama_image_stitching'
 external: ''
 tech:
   - Python

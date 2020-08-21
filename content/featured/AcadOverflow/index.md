@@ -2,7 +2,7 @@
 date: '2020-04-21'
 title: 'AcadOverflow'
 cover: './AcadOverflow.png'
-github: 'https://github.com/BhaviD/AcadOverflow_website'
+github: 'https://github.com/bhavidhingra/AcadOverflow'
 external: ''
 tech:
   - python-flask

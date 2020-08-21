@@ -1,7 +1,7 @@
 ---
 date: '2020-05-21'
 title: 'MyMess'
-github: 'https://github.com/BhaviD/MyMess'
+github: 'https://github.com/bhavidhingra/MyMess'
 external: ''
 tech:
   - Android Studio
