@@ -1,11 +1,16 @@
 ---
-title: WordPress Publishing Error
+title: How I Published My Portfolio On A Custom Domain
 description: Trying to create a simple post in WordPress
-date: '2019-12-03'
+date: '2020-08-30'
 draft: false
 slug: '/pensieve/wordpress-publish-error'
+external: 'https://medium.com/@bhavidhingra9/how-i-published-my-portfolio-on-a-custom-domain-f04e31302293?sk=718742404d4424960d550a11bf651f16'
 tags:
-  - WordPress
+  - Portfolio
+  - Personal Website
+  - Custom Domain
+  - Netlify
+  - Gatsby
 ---
 
 ## Problem
