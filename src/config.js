@@ -23,6 +23,10 @@ module.exports = {
       url: 'https://www.linkedin.com/in/bhavidhingra/',
     },
     {
+      name: 'Leetcode',
+      url: 'https://leetcode.com/bhavidhingra/',
+    },
+    {
       name: 'Instagram',
       url: 'https://www.instagram.com/bhavidhingra/',
     },
