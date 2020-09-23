@@ -15,16 +15,16 @@ module.exports = {
   twitterHandle: '@bhavidhingra9',
   socialMedia: [
     {
+      name: 'Leetcode',
+      url: 'https://leetcode.com/bhavidhingra/',
+    },
+    {
       name: 'GitHub',
       url: 'https://github.com/bhavidhingra',
     },
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/bhavidhingra/',
-    },
-    {
-      name: 'Leetcode',
-      url: 'https://leetcode.com/bhavidhingra/',
     },
     {
       name: 'Instagram',
