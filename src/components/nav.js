@@ -144,7 +144,7 @@ const StyledListItem = styled.li`
   font-size: ${fontSizes.smish};
   counter-increment: item 1;
   &:before {
-    content: '0' counter(item) '.';
+    // content: '0' counter(item) '.';
     text-align: right;
     color: ${colors.green};
     font-size: ${fontSizes.xs};

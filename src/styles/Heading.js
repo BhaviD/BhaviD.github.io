@@ -15,7 +15,7 @@ const Heading = styled.h3`
 
   &:before {
     counter-increment: section;
-    content: '0' counter(section) '.';
+    content: counter(section) '.';
     margin-right: 10px;
     font-family: ${fonts.SFMono};
     font-weight: normal;
