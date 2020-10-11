@@ -1,9 +1,10 @@
 import React from 'react';
 import { graphql } from 'gatsby';
 import PropTypes from 'prop-types';
-import { Layout, Hero, About, Jobs, Featured, Projects, Contact } from '@components';
+import { Layout, Hero, About, Jobs, Featured, Projects, Contact, MyCarousel } from '@components';
 import styled from 'styled-components';
 import { Main } from '@styles';
+
 
 const StyledMainContainer = styled(Main)`
   counter-reset: section;
@@ -13,6 +14,7 @@ const IndexPage = ({ location, data }) => (
   <Layout location={location}>
     <StyledMainContainer className="fillHeight">
       <Hero data={data.hero.edges} />
+      <MyCarousel data={data.carousel.edges} />
       <About data={data.about.edges} />
       <Jobs data={data.jobs.edges} />
       <Featured data={data.featured.edges} />
@@ -127,6 +129,26 @@ export const pageQuery = graphql`
           frontmatter {
             title
             buttonText
+          }
+          html
+        }
+      }
+    }
+    carousel: allMarkdownRemark(
+      filter: { fileAbsolutePath: { regex: "/carousel/" } }
+      sort: { fields: [frontmatter___date], order: DESC }
+    ) {
+      edges {
+        node {
+          frontmatter {
+            cover {
+              childImageSharp {
+                fluid {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+            altText
           }
           html
         }
