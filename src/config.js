@@ -3,10 +3,9 @@ module.exports = {
   siteDescription:
     'Bhavi Dhingra is a Software Dev Engineer based in Bangalore, KA who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
   siteKeywords:
-    'Bhavi Dhingra, Bhavi, Dhingra, bhavidhingra, software engineer, back-end engineer',
+    'Bhavi Dhingra, Bhavi, Dhingra, bhavidhingra, software engineer, backend engineer',
   siteUrl: 'https://bhavidhingra.dev',
   siteLanguage: 'en_US',
-  // googleAnalyticsID: 'G-Z50T90DMRD',
   googleVerification: 'nSijVxonr-kbJT0dl9oF5w2P_eiGMCS2TBrG58d9wmQ',
   name: 'Bhavi Dhingra',
   location: 'Bangalore, KA',
