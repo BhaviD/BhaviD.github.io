@@ -5,6 +5,7 @@ import { navLinks } from '@config';
 import styled from 'styled-components';
 import { theme, mixins, media } from '@styles';
 const { colors, fontSizes, fonts } = theme;
+import { OutboundLink } from "gatsby-plugin-google-analytics"
 
 const StyledContainer = styled.div`
   position: fixed;
@@ -107,9 +108,12 @@ const Menu = ({ menuOpen, toggleMenu }) => {
                 </NavListItem>
               ))}
           </NavList>
-          <ResumeLink href="/resume.pdf" target="_blank" rel="nofollow noopener noreferrer">
+          {/* <ResumeLink href="/resume.pdf" target="_blank" rel="nofollow noopener noreferrer">
             Resume
-          </ResumeLink>
+          </ResumeLink> */}
+          <OutboundLink href="/resume.pdf" target="_blank" rel="nofollow noopener noreferrer">
+            Resume
+          </OutboundLink>
         </NavLinks>
       </Sidebar>
     </StyledContainer>

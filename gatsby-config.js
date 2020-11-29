@@ -7,6 +7,14 @@ module.exports = {
     description: config.siteDescription,
   },
   plugins: [
+    {
+      resolve: 'gatsby-plugin-google-analytics',
+      options: {
+        trackingId: 'G-Z50T90DMRD',
+        head: true,
+        anonymize: true,
+      },
+    },
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-sharp`,
@@ -136,13 +144,6 @@ module.exports = {
             },
           },
         ],
-      },
-    },
-    {
-      resolve: 'gatsby-plugin-google-analytics',
-      options: {
-        trackingId: 'G-Z50T90DMRD',
-        // trackingId: process.env.GOOGLE_ANALYTICS_TRACKING_ID || 'none',
       },
     },
   ],
