@@ -1,5 +1,5 @@
 ---
-date: '2020-10-17'
+date: '2020-12-17'
 cover: './hacktoberfest.jpg'
-altText: 'This is HacktoberFest 2020 slide.'
+altText: 'This is slide for goodies from HacktoberFest 2020.'
 ---
