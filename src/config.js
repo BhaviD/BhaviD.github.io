@@ -6,7 +6,7 @@ module.exports = {
     'Bhavi Dhingra, Bhavi, Dhingra, bhavidhingra, software engineer, backend engineer',
   siteUrl: 'https://bhavidhingra.dev',
   siteLanguage: 'en_US',
-  googleVerification: 'nSijVxonr-kbJT0dl9oF5w2P_eiGMCS2TBrG58d9wmQ',
+  googleVerification: 'PACsFQvXge8i3XNMs_M-ATW3133o4Y2mXSJl_MMOX3Y',
   name: 'Bhavi Dhingra',
   location: 'Bangalore, KA',
   email: 'bhavi.dhingra@gmail.com',
