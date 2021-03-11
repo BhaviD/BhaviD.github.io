@@ -2,14 +2,13 @@ module.exports = {
   siteTitle: 'Bhavi Dhingra | Software Dev Engineer',
   siteDescription:
     'Bhavi Dhingra is a Software Dev Engineer based in Bangalore, KA who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
-  siteKeywords:
-    'Bhavi Dhingra, Bhavi, Dhingra, bhavidhingra, software engineer, backend engineer',
+  siteKeywords: 'Bhavi Dhingra, Bhavi, Dhingra, bhavidhingra, software engineer, backend engineer',
   siteUrl: 'https://bhavidhingra.dev',
   siteLanguage: 'en_US',
   googleVerification: 'PACsFQvXge8i3XNMs_M-ATW3133o4Y2mXSJl_MMOX3Y',
   name: 'Bhavi Dhingra',
   location: 'Bangalore, KA',
-  email: 'bhavi.dhingra@gmail.com',
+  email: 'connect@bhavidhingra.dev',
   github: 'https://github.com/bhavidhingra',
   twitterHandle: '@bhavidhingra9',
   socialMedia: [

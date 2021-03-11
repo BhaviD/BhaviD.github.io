@@ -2,7 +2,7 @@
   "name": "v1",
   "description": "Personal Website V1",
   "version": "1.0.0",
-  "author": "Bhavi Dhingra <bhavi.dhingra@gmail.com>",
+  "author": "Bhavi Dhingra <connect@bhavidhingra.dev>",
   "repository": {
     "type": "git",
     "url": "https://github.com/bhavidhingra"
@@ -28,9 +28,6 @@
   "lint-staged": {
     "*.{js,css,json,md}": [
       "prettier --write"
-    ],
-    "*.js": [
-      "eslint --fix"
     ]
   },
   "dependencies": {
