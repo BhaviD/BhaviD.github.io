@@ -1,9 +1,8 @@
 ---
-date: '2020-07-02'
-title: 'Software Dev Engineer I'
+date: '2021-10-01'
+title: 'Software Dev Engineer II'
 company: 'Swiggy'
 location: 'Bangalore, Karnataka, Inda'
-range: 'July 2020 - present'
+range: 'Oct 2021 - present'
 url: 'https://www.swiggy.com/'
 ---
-
