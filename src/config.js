@@ -8,7 +8,7 @@ module.exports = {
   googleVerification: 'PACsFQvXge8i3XNMs_M-ATW3133o4Y2mXSJl_MMOX3Y',
   name: 'Bhavi Dhingra',
   location: 'Bangalore, KA',
-  email: 'connect@bhavidhingra.dev',
+  email: 'bhavi.dhingra@gmail.com',
   github: 'https://github.com/bhavidhingra',
   twitterHandle: '@bhavidhingra9',
   socialMedia: [
